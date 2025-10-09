@@ -6,6 +6,8 @@ A Tampermonkey Script for the Browsergame Universe Dawn, which translates Astero
 
 Written by FloWzoW - [flozi.dev](https://flozi.dev)
 
+---
+
 # 🧩 Installation des Tampermonkey-Skripts
 
 ## 🇩🇪 Anleitung
