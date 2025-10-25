@@ -5,6 +5,7 @@
 // @author       FloWzoW - flozi.dev
 // @description  Ersetzt bestimmte Namen in der Fleet-Tabelle bei DOM-Änderungen
 // @match        https://universe-dawn.com/game/space/spacecraft/fleets/*
+// @match        https://universe-dawn.com/en/game/space/spacecraft/fleets/*
 // @grant        none
 // ==/UserScript==
 
